@@ -342,6 +342,5 @@ body {
 	
 	.zoomOver::before {
 		height: 125px;
-		left: -10px;
 	}
 }
